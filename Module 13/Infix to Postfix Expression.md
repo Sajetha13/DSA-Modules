@@ -1,4 +1,4 @@
-# B. Convert the Infix Expression to Postfix Expression and Display the Priority of the Operators
+# Convert the Infix Expression to Postfix Expression and Display the Priority of the Operators
 
 ## Aim:
 
