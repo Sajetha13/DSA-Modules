@@ -46,8 +46,9 @@ int deQueue() {
         return element;
     }
 }
+```
 ### OUTPUT
-(Add output screenshot here)
+![image](https://github.com/user-attachments/assets/d3973bef-1766-4132-b457-7489fedc5d10)
 
 ### RESULT
 The program correctly performs the dequeue operation on a circular queue, including handling the empty queue scenario.
