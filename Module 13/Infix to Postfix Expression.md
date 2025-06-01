@@ -118,7 +118,8 @@ int main()
 
 ## Output:
 
-*Attach output image here*
+![image](https://github.com/user-attachments/assets/a1cfb39c-ea2b-4383-b9b3-75b208b6fc0b)
+
 
 ## Result:
 
