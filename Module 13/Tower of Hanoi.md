@@ -37,7 +37,8 @@ int main(){
 
 ## Output:
 
-(Add output image here)
+![image](https://github.com/user-attachments/assets/ad93951e-b9ff-4478-9292-be68305a3cf5)
+
 
 ## Result:
 
